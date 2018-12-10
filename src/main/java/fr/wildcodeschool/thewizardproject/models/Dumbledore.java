@@ -18,4 +18,3 @@ public class Dumbledore implements WizardInterface {
         return outfit.outfitDress();
     }
 }
-
